@@ -16,4 +16,5 @@
 2. I believe that my laptop's performance has slowed down because of 2 main reasons: 
 * Firstly, due to the extensive amount of programs I use on my laptop, the processing power (which was not very high to begin with) is being affected and used extensively, causing it to slow down. 
 * Secondly, the memory (RAM) on my laptop is quite low meaning that the speed in which my CPU can process things is slowed down greatly which is also another reason for my laptop's slow, poor, ~~annoying~~ performance. 
+
 3.![IMG_2688](https://user-images.githubusercontent.com/89731473/131724037-2b5e60f4-dddd-42fb-965e-2b8f6b5a6013.png)
